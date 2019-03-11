@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{f4474567-1a45-4183-9d59-9cc48cbf0630}">
+        <property name="assetPath">
+            <value>SFX/Temp/SFX_Amb_Base_G2_Forest_v02.wav</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>144</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{5e555d2c-4770-47e2-9856-a5944f64c4f0}</destination>
+        </relationship>
+    </object>
+</objects>

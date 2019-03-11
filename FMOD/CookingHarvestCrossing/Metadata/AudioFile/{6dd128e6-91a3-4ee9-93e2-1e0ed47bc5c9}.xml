@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{6dd128e6-91a3-4ee9-93e2-1e0ed47bc5c9}">
+        <property name="assetPath">
+            <value>SFX/Temp/zapsplat_cartoon_pop_002_27591.mp3</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>0.096000000000000002</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{5e555d2c-4770-47e2-9856-a5944f64c4f0}</destination>
+        </relationship>
+    </object>
+</objects>
